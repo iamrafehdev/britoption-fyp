@@ -1,0 +1,8 @@
+[31-Jul-2020 00:59:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/profitearn/public_html/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/profitearn/public_html/config/app.php on line 18
+[31-Jul-2020 00:59:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/profitearn/public_html/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/profitearn/public_html/config/app.php on line 18

@@ -1,0 +1,105 @@
+[27-Mar-2020 14:02:07 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/profitearn/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[27-Mar-2020 14:02:24 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/profitearn/public_html/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 1120
+[27-Mar-2020 14:03:00 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/profitearn/public_html/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 1120
+[27-Mar-2020 14:04:50 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/profitearn/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[27-Mar-2020 14:04:58 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/profitearn/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[27-Mar-2020 14:06:21 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/profitearn/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[27-Mar-2020 14:10:45 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/profitearn/public_html/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 1122
+[27-Mar-2020 14:11:20 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 1052672 bytes) in /home/profitearn/public_html/app/Http/Controllers/Users/UnilevelController.php on line 48
+[27-Mar-2020 14:15:49 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/profitearn/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[27-Mar-2020 14:15:56 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/profitearn/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[27-Mar-2020 14:22:15 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/profitearn/public_html/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 1122
+[27-Mar-2020 14:48:39 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/profitearn/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[27-Mar-2020 14:52:45 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/profitearn/public_html/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 1122
+[27-Mar-2020 14:54:08 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/profitearn/public_html/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 1122
+[27-Mar-2020 14:55:40 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/profitearn/public_html/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 1122
+[27-Mar-2020 15:16:32 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/profitearn/public_html/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 1122
+[27-Mar-2020 15:20:00 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/profitearn/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[27-Mar-2020 15:20:49 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/profitearn/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[27-Mar-2020 15:22:13 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/profitearn/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[27-Mar-2020 15:26:26 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 1052672 bytes) in /home/profitearn/public_html/app/Http/Controllers/Users/UnilevelController.php on line 48
+[27-Mar-2020 15:29:11 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/profitearn/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[05-Apr-2020 20:46:02 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[05-Apr-2020 20:46:09 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[05-Apr-2020 20:47:31 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[05-Apr-2020 20:47:38 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[05-Apr-2020 20:49:03 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[05-Apr-2020 20:49:10 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[05-Apr-2020 20:50:35 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[05-Apr-2020 20:50:41 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[05-Apr-2020 20:52:07 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[05-Apr-2020 20:52:13 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[13-Apr-2020 19:29:13 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[13-Apr-2020 19:29:20 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[13-Apr-2020 19:29:42 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[13-Apr-2020 19:29:50 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[13-Apr-2020 19:30:50 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[13-Apr-2020 19:31:00 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[13-Apr-2020 19:31:25 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[13-Apr-2020 19:31:32 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[13-Apr-2020 19:32:41 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[13-Apr-2020 19:32:53 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[13-Apr-2020 19:33:05 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[13-Apr-2020 19:33:14 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[13-Apr-2020 19:34:53 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[13-Apr-2020 19:34:59 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[13-Apr-2020 19:35:03 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[13-Apr-2020 19:35:09 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[13-Apr-2020 19:36:38 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[13-Apr-2020 19:36:41 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[13-Apr-2020 19:36:46 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[13-Apr-2020 19:36:51 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[13-Apr-2020 19:38:38 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[13-Apr-2020 19:38:38 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[13-Apr-2020 19:38:45 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[13-Apr-2020 19:38:46 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[13-Apr-2020 19:40:22 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[13-Apr-2020 19:40:28 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[13-Apr-2020 19:40:29 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[13-Apr-2020 19:40:35 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[13-Apr-2020 19:42:12 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[13-Apr-2020 19:42:14 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[13-Apr-2020 19:42:19 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[13-Apr-2020 19:42:22 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[13-Apr-2020 19:43:57 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[13-Apr-2020 19:44:02 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[13-Apr-2020 19:44:06 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[13-Apr-2020 19:44:10 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[13-Apr-2020 19:45:36 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[13-Apr-2020 19:45:42 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[13-Apr-2020 19:45:55 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[13-Apr-2020 19:46:02 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/profitearn/public_html/index.php on line 17
+[02-Jul-2020 17:10:58 UTC] PHP Fatal error:  Out of memory (allocated 14680064) (tried to allocate 36864 bytes) in /home/profitearn/public_html/vendor/filp/whoops/src/Whoops/Exception/Frame.php on line 204
+[02-Jul-2020 17:11:10 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /home/profitearn/public_html/vendor/composer/autoload_static.php on line 4055
+[02-Jul-2020 17:11:24 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /home/profitearn/public_html/vendor/composer/autoload_static.php on line 4055
+[02-Jul-2020 17:20:30 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/profitearn/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php on line 456
+[02-Jul-2020 17:21:18 UTC] PHP Fatal error:  Out of memory (allocated 16777216) (tried to allocate 622592 bytes) in /home/profitearn/public_html/vendor/filp/whoops/src/Whoops/Resources/views/frame_code.html.php on line 43
+[02-Jul-2020 17:21:21 UTC] PHP Warning:  preg_match_all(): Allocation of JIT memory failed, PCRE JIT will be disabled. This is likely caused by security restrictions. Either grant PHP permission to allocate executable memory, or set pcre.jit=0 in /home/profitearn/public_html/vendor/symfony/http-foundation/HeaderUtils.php on line 65
+[02-Jul-2020 17:22:27 UTC] PHP Warning:  preg_match_all(): Allocation of JIT memory failed, PCRE JIT will be disabled. This is likely caused by security restrictions. Either grant PHP permission to allocate executable memory, or set pcre.jit=0 in /home/profitearn/public_html/vendor/symfony/http-foundation/HeaderUtils.php on line 65
+[02-Jul-2020 17:22:27 UTC] PHP Warning:  preg_match_all(): Allocation of JIT memory failed, PCRE JIT will be disabled. This is likely caused by security restrictions. Either grant PHP permission to allocate executable memory, or set pcre.jit=0 in /home/profitearn/public_html/vendor/symfony/http-foundation/HeaderUtils.php on line 65
+[02-Jul-2020 17:23:06 UTC] PHP Fatal error:  Out of memory (allocated 14680064) (tried to allocate 98304 bytes) in /home/profitearn/public_html/vendor/filp/whoops/src/Whoops/Exception/Frame.php on line 123
+[02-Jul-2020 17:23:49 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/profitearn/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php on line 456
+[02-Jul-2020 17:24:46 UTC] PHP Fatal error:  Out of memory (allocated 14680064) (tried to allocate 98304 bytes) in /home/profitearn/public_html/vendor/filp/whoops/src/Whoops/Exception/Frame.php on line 123
+[02-Jul-2020 17:24:57 UTC] PHP Fatal error:  Out of memory (allocated 10485760) (tried to allocate 65536 bytes) in /home/profitearn/public_html/vendor/symfony/routing/RouteCompilerInterface.php on line 19
+[02-Jul-2020 17:24:55 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /home/profitearn/public_html/vendor/composer/autoload_static.php on line 4054
+[02-Jul-2020 17:25:12 UTC] PHP Fatal error:  Out of memory (allocated 10485760) (tried to allocate 12288 bytes) in /home/profitearn/public_html/vendor/symfony/routing/RouteCompiler.php on line 196
+[02-Jul-2020 17:25:18 UTC] PHP Fatal error:  Out of memory (allocated 8388608) (tried to allocate 16384 bytes) in /home/profitearn/public_html/vendor/nesbot/carbon/src/Carbon/CarbonInterface.php on line 614
+[02-Jul-2020 17:25:20 UTC] PHP Fatal error:  Out of memory (allocated 14680064) (tried to allocate 36864 bytes) in /home/profitearn/public_html/vendor/filp/whoops/src/Whoops/Exception/Frame.php on line 204
+[02-Jul-2020 17:25:15 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /home/profitearn/public_html/vendor/composer/autoload_static.php on line 4055
+[02-Jul-2020 17:25:22 UTC] PHP Fatal error:  Out of memory (allocated 8388608) (tried to allocate 20480 bytes) in /home/profitearn/public_html/vendor/nesbot/carbon/src/Carbon/CarbonInterface.php on line 566
+[02-Jul-2020 17:25:22 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /home/profitearn/public_html/vendor/composer/autoload_static.php on line 4055
+[02-Jul-2020 17:25:30 UTC] PHP Fatal error:  Out of memory (allocated 10485760) (tried to allocate 12288 bytes) in /home/profitearn/public_html/vendor/symfony/routing/RouteCompiler.php on line 196
+[02-Jul-2020 17:25:30 UTC] PHP Fatal error:  Out of memory (allocated 10485760) (tried to allocate 12288 bytes) in /home/profitearn/public_html/vendor/symfony/routing/RouteCompiler.php on line 196
+[02-Jul-2020 17:25:29 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/profitearn/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php on line 456
+[02-Jul-2020 17:25:29 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /home/profitearn/public_html/vendor/composer/autoload_static.php on line 4055
+[02-Jul-2020 17:25:32 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/profitearn/public_html/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 40
+[02-Jul-2020 17:25:41 UTC] PHP Warning:  preg_match_all(): Allocation of JIT memory failed, PCRE JIT will be disabled. This is likely caused by security restrictions. Either grant PHP permission to allocate executable memory, or set pcre.jit=0 in /home/profitearn/public_html/vendor/symfony/http-foundation/HeaderUtils.php on line 65
+[02-Jul-2020 17:25:41 UTC] PHP Warning:  preg_match_all(): Allocation of JIT memory failed, PCRE JIT will be disabled. This is likely caused by security restrictions. Either grant PHP permission to allocate executable memory, or set pcre.jit=0 in /home/profitearn/public_html/vendor/symfony/http-foundation/HeaderUtils.php on line 65
+[02-Jul-2020 17:25:50 UTC] PHP Fatal error:  Out of memory (allocated 8388608) (tried to allocate 20480 bytes) in /home/profitearn/public_html/vendor/nesbot/carbon/src/Carbon/CarbonInterface.php on line 566
+[02-Jul-2020 17:25:55 UTC] PHP Fatal error:  Out of memory (allocated 8388608) (tried to allocate 20480 bytes) in /home/profitearn/public_html/vendor/nesbot/carbon/src/Carbon/CarbonInterface.php on line 566
+[02-Jul-2020 17:25:56 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/profitearn/public_html/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 40
+[02-Jul-2020 17:26:07 UTC] PHP Fatal error:  Out of memory (allocated 12582912) (tried to allocate 65536 bytes) in /home/profitearn/public_html/vendor/monolog/monolog/src/Monolog/Handler/RotatingFileHandler.php on line 176
+[02-Jul-2020 17:26:07 UTC] PHP Fatal error:  Out of memory (allocated 10485760) (tried to allocate 12288 bytes) in /home/profitearn/public_html/vendor/symfony/routing/RouteCompiler.php on line 196
+[02-Jul-2020 17:26:07 UTC] PHP Fatal error:  Out of memory (allocated 8388608) (tried to allocate 32768 bytes) in /home/profitearn/public_html/vendor/nesbot/carbon/src/Carbon/CarbonInterface.php on line 4588
+[02-Jul-2020 17:26:07 UTC] PHP Fatal error:  Out of memory (allocated 14680064) (tried to allocate 98304 bytes) in /home/profitearn/public_html/vendor/filp/whoops/src/Whoops/Exception/Frame.php on line 123
+[02-Jul-2020 17:26:26 UTC] PHP Fatal error:  Out of memory (allocated 14680064) (tried to allocate 98304 bytes) in /home/profitearn/public_html/vendor/filp/whoops/src/Whoops/Exception/Frame.php on line 123
